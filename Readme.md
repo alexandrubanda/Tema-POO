@@ -16,13 +16,13 @@ Pentru a rula aplicația, trebuie mai întâi să o compilați. Aplicația este 
 2. Compilați aplicația utilizând comanda `g++`:
 
         
-       ``` g++ program.cpp -o gestionare_cadouri ```
+       g++ program.cpp -o gestionare_cadouri
 
    Această comandă va crea un fișier executabil numit `gestionare_cadouri`.
 
 3. Rulați aplicația folosind comanda:
 
-       ``` ./gestionare_cadouri ```
+       ./gestionare_cadouri
 
 ## Funcționalități
 
